@@ -1,4 +1,4 @@
-<a href="#"><img width="450px" height="auto" src="Programmer-I.gif"/></a>
+<a href="#"><img width="450px" align="center" src="Programmer-I.gif"/></a>
 
 <!-- <p align="right">
 <a target="_blank" href="https://ashfakyeafi.github.io/iamyeafi/"><img width="450" align="right" src="Programmer-I.gif"></a>
