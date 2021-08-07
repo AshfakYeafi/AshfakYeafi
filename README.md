@@ -1,5 +1,7 @@
-<a href="#"><img width="450px" align="center" src="Programmer-I.gif"/></a>
 
+<p aling="center">
+<a href="#"><img width="450px" align="center" src="Programmer-I.gif"/></a>
+</p>
 <!-- <p align="right">
 <a target="_blank" href="https://ashfakyeafi.github.io/iamyeafi/"><img width="450" align="right" src="Programmer-I.gif"></a>
 </p> -->
