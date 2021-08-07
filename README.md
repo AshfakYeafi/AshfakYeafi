@@ -1,8 +1,8 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<a href="#"><img width="100%" height="auto" src="Programmer-I.gif" height="175px"/></a>
 
-<p align="right">
+<!-- <p align="right">
 <a target="_blank" href="https://ashfakyeafi.github.io/iamyeafi/"><img width="450" align="right" src="Programmer-I.gif"></a>
-</p>
+</p> -->
 <br>
 <p aling="left">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashfak</h1>
