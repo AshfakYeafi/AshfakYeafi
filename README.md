@@ -1,13 +1,15 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<p align="center">
+<p align="left">
 <a target="_blank" href="https://ashfakyeafi.github.io/iamyeafi/"><img width="550" align="right" src="Programmer-I.gif"></a>
 </p>
 <br>
-
+<p aling="left">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashfak</h1>
 <h3 align="center">I'm a passionate Machine Learning Developer from Bangladesh.</h3>
-
+</p>
+<br>
+<p align="left">
 
 ## 🙋‍♂️ About Me
 
@@ -22,6 +24,8 @@
 - 📫 How to reach me **yeafiashfak@gmail.com**
 
 - ⚡ Fun fact **I loves to watch anime.**
+
+</p>
 
 ## 🚀 Languages and Tools:
 
