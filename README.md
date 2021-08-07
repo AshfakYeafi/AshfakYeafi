@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<p align="left">
+<p align="right">
 <a target="_blank" href="https://ashfakyeafi.github.io/iamyeafi/"><img width="450" align="right" src="Programmer-I.gif"></a>
 </p>
 <br>
