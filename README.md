@@ -1,4 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+
+<p align="center">
+<a target="_blank" href="https://ashfakyeafi.github.io/iamyeafi/"><img width="550" align="right" src="Programmer-I.gif"></a>
+</p>
+<br>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashfak</h1>
 <h3 align="center">I'm a passionate Machine Learning Developer from Bangladesh.</h3>
