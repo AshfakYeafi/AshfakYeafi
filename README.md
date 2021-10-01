@@ -32,17 +32,18 @@
 
 
 
-## Languages, Frameworks and Tools
+## {...} My Stack
 
+```json
 {
-    "language": [ ![C++](https://img.shields.io/badge/-c/c++-00599c?style=flat&logo=c%2B%2B),![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black), ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=html5), ![CSS3](https://img.shields.io/badge/-CSS-1572b6?style=flat&logo=css3)],
-    "framework" : [![Android](https://img.shields.io/badge/-android-3ddc84?style=flat&logo=android&logoColor=white), ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter),
-    "database" : [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)]
-	"version control" : [![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=Git), ![Git](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github)]
-	 "tools" : [![vscode](https://img.shields.io/badge/-VSCode-007acc?style=flat&logo=visual-studio-code), ![Git](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=IntelliJ-IDEA), ![Git](https://img.shields.io/badge/-AndroidStudio-ffffff?style=flat&logo=Android-studio), ![Git](https://img.shields.io/badge/-Figma-ffffff?style=flat&logo=Figma)]
-} 
-
-
+   "languages": ["Python","Dart","C","C++"],
+   "ai framework":["Keras","PyTorch","Scikit-learn","PySpark","TensorFlow"],
+   "experimenting": ["Flutter", "Heroku"],
+   "OS system":["Linux","ROS (Robot Opreting System"],
+   "Software/Tools":["VS code","Android Studio","Gazebo","Fusion 360","PyCharm"],
+   "Version Control":["Git","Github"]
+}
+```
 
 
 ## 🚀 Languages and Tools:
