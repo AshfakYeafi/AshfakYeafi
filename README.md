@@ -1,4 +1,7 @@
 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AshfakYeafi">
+</a>
 <p aling="center">
 <a href="#"><img width="450px" align="center" src="Programmer-I.gif"/></a>
 </p>
@@ -92,10 +95,4 @@
 <a href = "https://www.youtube.com/channel/UCdaSAPosAJL428qSwjhq_YQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AshfakYeafi">
-</a>
-
 
