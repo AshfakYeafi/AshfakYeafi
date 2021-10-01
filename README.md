@@ -37,8 +37,8 @@
 ```json
 {
    "languages": ["Python","Dart","C","C++"],
-   "ai framework":["Keras","PyTorch","Scikit-learn","PySpark","TensorFlow"],
-   "experimenting": ["Flutter", "Heroku"],
+   "ai framework":["Keras","PyTorch","Scikit-learn","PySpark","TensorFlow","Tensorflow Lite"],
+   "experimenting": ["Flutter"],
    "OS system":["Linux","ROS (Robot Opreting System"],
    "Software/Tools":["VS code","Android Studio","Gazebo","Fusion 360","PyCharm"],
    "Version Control":["Git","Github"]
