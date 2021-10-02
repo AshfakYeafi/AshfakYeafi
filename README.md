@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AshfakYeafi" alt="AshfakYeafi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AshfakYeafi&label=Profile%20views&color=ff0000&style=flat" alt="AshfakYeafi" /> </p>
 
 <p aling="center">
 <a href="#"><img width="600px" align="center" src="cover.gif"/></a>
