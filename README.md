@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshfakYeafi" alt="AshfakYeafi" /> </p>
 
 <p aling="center">
-<a href="#"><img width="450px" align="center" src="Programmer-I.gif"/></a>
+<a href="#"><img width="600px" align="center" src="cover.gif"/></a>
 </p>
 <!-- <p align="right">
 <a target="_blank" href="https://ashfakyeafi.github.io/iamyeafi/"><img width="450" align="right" src="Programmer-I.gif"></a>
