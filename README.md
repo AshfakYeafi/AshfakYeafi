@@ -39,7 +39,7 @@
 {
    "languages": ["Python","Dart","C","C++"],
    "ai framework":["Keras","PyTorch","Scikit-learn","PySpark","TensorFlow","Tensorflow Lite"],
-   "experimenting": ["Flutter"],
+   "experimenting": ["Kotlin"],
    "OS system":["Linux","ROS (Robot Opreting System"],
    "Software/Tools":["VS code","Android Studio","Gazebo","Fusion 360","PyCharm"],
    "Version Control":["Git","Github"]
