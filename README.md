@@ -84,7 +84,7 @@
 <br/>
 <br/>
 
-### Kaggle Stats 📐: 
+## Kaggle Stats 📐: 
 ![ashfakyeafi](https://road-to-kaggle-grandmaster.vercel.app/api/simple/ashfakyeafi)
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ashfakyeafi/competition/light" />
