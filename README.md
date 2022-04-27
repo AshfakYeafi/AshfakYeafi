@@ -84,6 +84,16 @@
 <br/>
 <br/>
 
+### Kaggle Stats 📐: 
+![ashfakyeafi](https://road-to-kaggle-grandmaster.vercel.app/api/simple/ashfakyeafi)
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ashfakyeafi/competition/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ashfakyeafi/dataset/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ashfakyeafi/notebook/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ashfakyeafi/discussion/light" />
+</p>
+
+
 ## Connect with me:
 <p align="left">
 
