@@ -64,7 +64,7 @@
 <br/>
 
 <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashfak Yeafi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AshfakYeafi&theme=white-ice&hide_border=true&stroke=0000&background=white"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashfak Yeafi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AshfakYeafi&theme=white-ice&hide_border=false&stroke=0000&background=white"/>
 </p>
 
 ## 📊 My Github Stats
