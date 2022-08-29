@@ -52,12 +52,21 @@
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/python.png"/> 
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/java.png"/> 
     <img src="https://img.icons8.com/color/48/000000/dart.png"/>
     <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
     <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>  
     <img src="https://img.icons8.com/color/48/000000/autodesk-fusion-360.png"/>
     <img src="https://img.icons8.com/color/48/000000/wordpress.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/32px-PyTorch_logo_icon.svg.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/32px-OpenCV_Logo_with_text_svg_version.svg.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/40px-Former_Ubuntu_logo.svg.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/42px-Pandas_mark.svg.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/42px-Flask_logo.svg.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/42px-Matlab_Logo.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/42px-Scikit_learn_logo_small.svg.png"/>
+    
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
@@ -92,6 +101,12 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ashfakyeafi/notebook/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ashfakyeafi/discussion/light" />
 </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AshfakYeafi" alt="AshfakYeafi" /></a> </p>
+
+
+
 
 
 ## Connect with me:
