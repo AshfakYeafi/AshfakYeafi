@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://ashfakyeafi.github.io/iamyeafi/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ashfakyeafi.github.io)**
 
 - 📫 How to reach me **yeafiashfak@gmail.com**
 
